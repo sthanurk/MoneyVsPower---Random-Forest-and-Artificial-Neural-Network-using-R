@@ -4,7 +4,7 @@ An analysis on Elections Data in R
 
 Methods used : Random Forest, Artificial Neural Network
 
-__Random Forest Best Model:__ 
+__Random Forest Best Model:__  
 Number of trees (ntree) = __70__  
 Number of variables (mtry) = __5__  
 Out-of-Bag (OOB) error rate = __5.38%__  
