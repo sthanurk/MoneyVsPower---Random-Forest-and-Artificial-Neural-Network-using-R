@@ -18,7 +18,7 @@ The main factors influencing the election results in the order of influence :
 * coh_cop (Cash at end of campaign)
 * ttl_disb (Total Disbursements of funds)
 
-__Artificial Neural Network:__
+__Artificial Neural Network:__  
 Number of input nodes in the ANN = __39__  
 Number of weights in the ANN =  __206__
 
