@@ -22,7 +22,9 @@ __Artificial Neural Network:__
 Number of input nodes in the ANN = __39__  
 Number of weights in the ANN =  __206__
 
-Best Model is Random Forest in comparison to the Neural Network model.
-__Area under the Receiver Operating Characteristics (ROC) curve (AUC):__ 
-* Random Forest Model = 98%
-* Artificial Neural network Model = 95.4%
+Accuracy of Neural Network model = __84.89%__  
+
+Best Model is Random Forest in comparison to the Neural Network model.  
+__Area under the Receiver Operating Characteristics (ROC) curve (AUC):__  
+* Random Forest Model = __98%__
+* Artificial Neural network Model = __95.4%__
